@@ -1,4 +1,4 @@
-#Data Structures and Algorithms Projects
+Data Structures and Algorithms Projects
 This repository contains a collection of 12 projects completed during my internship focused on Data Structures and Algorithms (DSA) with Learnsmasher. Each project implements fundamental DSA concepts using Python, demonstrating their functionality and applications.
 
 Projects Overview
