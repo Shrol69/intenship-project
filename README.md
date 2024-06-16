@@ -51,8 +51,8 @@ This repository contains a collection of 12 projects completed during my interns
     - Supports efficient updates and queries on intervals.
 
 12. **Stack and Queue Simulation**
-    -Simulates basic operations of both stack and queue data structures.
-    -Demonstrates push, pop, enqueue, and dequeue operations.
+    - Simulates basic operations of both stack and queue data structures.
+    - Demonstrates push, pop, enqueue, and dequeue operations.
 
 ## Installation and Usage
 
