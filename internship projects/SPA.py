@@ -10,7 +10,7 @@ class Graph:
         if dest not in self.graph:
             self.graph[dest] = []
         self.graph[src].append((dest, weight))
-        self.graph[dest].append((src, weight))  # For undirected graph
+        self.graph[dest].append((src, weight))      
 
     def dijkstra(self, start):
         distances = {vertex: float('infinity') for vertex in self.graph}
