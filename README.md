@@ -50,8 +50,9 @@ This repository contains a collection of 12 projects completed during my interns
     - Implements a segment tree for range query operations like finding sum or minimum in a range.
     - Supports efficient updates and queries on intervals.
 
-12. **Web Development Experience**
-    - Developed a website "Life of an Artist" as a college project, showcasing skills beyond DSA.
+12. **Stack and Queue Simulation**
+    -Simulates basic operations of both stack and queue data structures.
+    -Demonstrates push, pop, enqueue, and dequeue operations.
 
 ## Installation and Usage
 
