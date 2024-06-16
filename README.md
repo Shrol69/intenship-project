@@ -60,7 +60,7 @@ Each project is contained within its own Python file. To run any specific projec
 ```bash
 git clone https://github.com/Shrol69/internship-projects.git
 cd internship-projects
-python stack.py  # Replace with the specific project file you want to run
+python stack.py
 ```
 
 ## Learnings and Reflections
