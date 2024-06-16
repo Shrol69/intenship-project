@@ -63,7 +63,7 @@ Learnings and Reflections
 These projects have provided a solid foundation in DSA concepts, enhancing problem-solving skills and algorithmic thinking. Each implementation addresses specific challenges and showcases practical applications of data structures and algorithms.
 
 Contact
-For any questions or feedback, feel free to contact me at your-email@example.com or connect with me on LinkedIn.
+For any questions or feedback, feel free to contact me at gaykarayush588@gmail.com or connect with me on LinkedIn.
 
 Acknowledgements
 Special thanks to Learnsmasher for providing this internship opportunity and valuable guidance.
