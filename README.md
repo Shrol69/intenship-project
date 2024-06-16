@@ -69,7 +69,7 @@ These projects have provided a solid foundation in DSA concepts, enhancing probl
 
 ## Contact
 
-For any questions or feedback, feel free to contact me at gaykarayush588@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/ayush-gaykar-coder6122).
+For any questions or feedback, feel free to contact me at gaykarayush588@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-gaykar-coder6122/).
 
 ## Acknowledgements
 
